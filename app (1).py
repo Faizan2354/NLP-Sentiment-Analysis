@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # ---------------- PAGE CONFIG ----------------
 
 st.set_page_config(
-    page_title="AI Sentiment Dashboard",
+    page_title="Sentiment Dashboard",
     page_icon="🧠",
     layout="centered"
 )
@@ -36,7 +36,7 @@ Features:
 
 # ---------------- TITLE ----------------
 
-st.title("🧠 AI Sentiment Analysis Dashboard")
+st.title("🧠 Sentiment Analysis Dashboard")
 
 st.write("""
 Analyze customer reviews using NLP and Machine Learning.
