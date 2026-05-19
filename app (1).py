@@ -21,7 +21,7 @@ vectorizer = pickle.load(open("vectorizer .pkl", "rb"))
 st.sidebar.title("📌 About")
 
 st.sidebar.info("""
-AI-based Sentiment Analysis Dashboard
+ Sentiment Analysis Dashboard
 
 Model:
 - TF-IDF
